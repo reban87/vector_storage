@@ -11,3 +11,7 @@ To create an embedding, data is fed into an embedding model, which outputs vecto
 ## Embeddings and retrieval
 
 We can use the similarity property of embeddings to search for and retrieve information. For example, we can find documents relevant to a particular topic, or images similar to a given image. Rather than searching for keywords or tags, we can search by finding data with similar semantic meaning.
+
+
+## Documentation:
+Find here -> [Chroma](https://docs.trychroma.com/guides)
